@@ -1,0 +1,142 @@
+{
+    "kpi_summary": {
+        "total_respondents": 1500,
+        "leading_option": "Remote-First",
+        "leading_votes": 667,
+        "leading_percentage": 44.47,
+        "runner_up_option": "Hybrid (2-3 Days Office)",
+        "runner_up_votes": 543,
+        "runner_up_percentage": 36.2,
+        "mean_satisfaction": 3.8,
+        "median_satisfaction": 4.0,
+        "satisfaction_std": 1.12,
+        "pct_high_satisfaction": 69.6,
+        "pct_low_satisfaction": 13.8,
+        "net_satisfaction_score": 55.8,
+        "unique_regions_represented": 5,
+        "top_participating_region": "North America"
+    },
+    "option_breakdown": [
+        {
+            "preferred_option": "Remote-First",
+            "votes": 667,
+            "mean_satisfaction": 4.1,
+            "median_satisfaction": 4.0,
+            "std_satisfaction": 1.02,
+            "percentage": 44.47
+        },
+        {
+            "preferred_option": "Hybrid (2-3 Days Office)",
+            "votes": 543,
+            "mean_satisfaction": 3.71,
+            "median_satisfaction": 4.0,
+            "std_satisfaction": 1.03,
+            "percentage": 36.2
+        },
+        {
+            "preferred_option": "Flexible Asynchronous",
+            "votes": 154,
+            "mean_satisfaction": 3.88,
+            "median_satisfaction": 4.0,
+            "std_satisfaction": 0.99,
+            "percentage": 10.27
+        },
+        {
+            "preferred_option": "Office-Centric",
+            "votes": 136,
+            "mean_satisfaction": 2.65,
+            "median_satisfaction": 3.0,
+            "std_satisfaction": 1.21,
+            "percentage": 9.07
+        }
+    ],
+    "narrative_insights": [
+        "**Plurality Winner**: **'Remote-First'** emerged as the primary choice with **44.47%** (667 votes), leading runner-up **'Hybrid (2-3 Days Office)'** (36.2%) by a margin of 8.27 percentage points.",
+        "**Satisfaction Disparity**: Respondents favoring **'Remote-First'** reported the highest satisfaction (mean **4.10 / 5.0**), whereas **'Office-Centric'** recorded the lowest satisfaction (mean **2.65 / 5.0**).",
+        "**Overall Sentiment Health**: Net Satisfaction stands at **+55.8%** (overwhelmingly positive), with **69.6%** of respondents rating their experience a 4 or 5 compared to only **13.8%** rating 1 or 2.",
+        "**Generational Alignment**: Support for **'Remote-First'** peaked among the **25-34** demographic cohort at **50.8%**, demonstrating strong generational affinity.",
+        "**Geographic Hotspot**: **Latin America** registered the highest regional satisfaction rating at **3.92 / 5.0**."
+    ],
+    "top_feedback_keywords": [
+        {
+            "word": "hours",
+            "count": 351
+        },
+        {
+            "word": "work",
+            "count": 248
+        },
+        {
+            "word": "tools",
+            "count": 238
+        },
+        {
+            "word": "office",
+            "count": 218
+        },
+        {
+            "word": "time",
+            "count": 216
+        },
+        {
+            "word": "hybrid",
+            "count": 178
+        },
+        {
+            "word": "documentation",
+            "count": 175
+        },
+        {
+            "word": "though",
+            "count": 159
+        },
+        {
+            "word": "home",
+            "count": 152
+        },
+        {
+            "word": "flexibility",
+            "count": 152
+        },
+        {
+            "word": "remote",
+            "count": 150
+        },
+        {
+            "word": "asynchronous",
+            "count": 140
+        },
+        {
+            "word": "communication",
+            "count": 140
+        },
+        {
+            "word": "sprint",
+            "count": 138
+        },
+        {
+            "word": "meeting",
+            "count": 138
+        },
+        {
+            "word": "productivity",
+            "count": 130
+        },
+        {
+            "word": "team",
+            "count": 121
+        },
+        {
+            "word": "focus",
+            "count": 114
+        },
+        {
+            "word": "policy",
+            "count": 113
+        },
+        {
+            "word": "working",
+            "count": 111
+        }
+    ]
+}
